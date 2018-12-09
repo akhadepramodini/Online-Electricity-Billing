@@ -1,0 +1,80 @@
+Where do I find my Consumer Number ?
+"Action":"Default","Msg":"Consumer number is given on your bill"
+
+what is my consumer id ?
+"Action":"Default","Msg":"Consumer number is given on your bill"
+
+My payment was successful, but the provider still says its not paid?
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+help me with the bill
+"Action":"Default","Msg":"These are somthing you can ask me Generate your bill ,Guid you how to use the app,Complaint registration,complaint status,show you the billing history,Show you the last date of bill payment"
+
+how to make payment
+"Action":"Default","Msg":"By entering your customer id you will get the payment options"
+fine
+"Action":"Default","Msg":"ok cool..."
+
+what is the simplest way to pay the bill
+"Action":"Default","Msg":"Scan and pay will be best for you"
+
+though i paid my full bill ,but provider said its not paid?
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+How do i know if my payment was successful?
+"Action":"Default","Msg":"you will get the conformation message on your registered mobile number and also on your mail I'd."
+
+Can I make a partial payment of my bill?
+"Action":"Default","Msg":"No,sorry this service is not available."
+
+How will I get to know if the bill was paid?
+"Action":"Default","Msg":"you will get the conformation message on your registered mobile number and also on your mail I'd."
+
+what is the status of my complaint
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+my complaint status
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+i am having light bill issues
+"Action":"Default","Msg":"What kind of issue you are facing"
+
+I want to register a complaint 
+"Action":"Default","Msg":"you can directly write your complaint to me"
+
+how can i know the status of my complaint 
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+I have regitered a complaint does its proceeded?
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+my electricity connection is interrupted
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+my bill providers is not upto mark
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+i want to close the electricity connection
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+i want to close the connection
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+my last month bill was incorrect
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+i am having issue with the electricity connection
+"Action":"Default","Msg":"You can write your issues to me"
+i am having issue with the connection
+"Action":"Default","Msg":"You can write your issues to me"
+
+i am facing some trouble with the connection
+"Action":"Default","Msg":"You can write your issues to me"
+
+my last month electricity bill was exceeded
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+my last month bill was too high
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+i am facing some problem
+"Action":"Default","Msg":"You can write your issues to me"
+i am having some problems with the connection
+"Action":"Default","Msg":"You can write your issues to me"

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PayOthers">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="293dp"
+        android:layout_height="67dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="60dp"
+        android:text="Enter Customer ID"
+        android:textColor="@android:color/black"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/editText10"
+        android:layout_width="295dp"
+        android:layout_height="62dp"
+        android:layout_marginLeft="20dp"
+        android:ems="10"
+        android:hint="@string/CustomerID"
+        android:inputType="textPersonName" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="351dp"
+        android:layout_height="58dp"
+        android:layout_marginLeft="15dp"
+        android:text="View Amount" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="354dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:ems="10"
+        android:hint="Amount"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="152dp"
+        android:layout_height="52dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="Pay" />
+</LinearLayout>

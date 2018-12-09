@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Complaint"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/mainback"
+    android:gravity="center">
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="39dp" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/spinner1"
+        android:layout_marginTop="29dp" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/or"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="29dp"
+        android:text="@string/SendComplaint" />
+
+    <TextView
+        android:id="@+id/or"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="@string/Or"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/or"
+        android:layout_centerHorizontal="true"
+        android:text="@string/SelectCom2"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_above="@+id/button16"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="18dp"
+        android:ems="10"
+        android:hint="@string/WriteHere"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button14"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button14"
+        android:text="@string/SendComplaint" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText7"
+        android:layout_alignStart="@+id/editText7"
+        android:layout_below="@+id/textView7"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="" />
+
+</RelativeLayout>
+

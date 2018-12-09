@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayDigitaly</string>
+    <string name="Registration">पंजीकरण</string>
+    <string name="Login">लग - इन</string>
+    <string name="NewConnection">नयाँ जडान</string>
+    <string name="QuickPay">" द्रुत भुक्तानी"</string>
+    <string name="UserName">" प्रयोगकर्ताको नाम"</string>
+    <string name="CustomerID">"ग्राहक परिचय "</string>
+    <string name="Contact">सम्पर्क</string>
+    <string name="Register">"दर्ता गर्नुहोस् "</string>
+    <string name="Password">पासवर्ड</string>
+    <string name="SignUp">" साइन अप"</string>
+    <string name="SignIn">साइन इन</string>
+    <string name="Viewmybill">"मेरो बिल हेर्नुहोस् "</string>
+    <string name="ViewBill">"बिल हेर्नुहोस् "</string>
+    <string name="History">इतिहास</string>
+    <string name="RegisterComplaint">"दर्ता गर्नुहोस् "</string>
+    <string name="Notifications">"सूचनाहरू "</string>
+    <string name="Welcome">"स्वागत छ "</string>
+    <string name="SelectCom">" निम्न प्रायः प्रचण्डका कुनै पनि पनि छान्नुहोस्"</string>
+    <string name="SelectCom2">"नयाँ उजुरी लेख्नुहोस् "</string>
+    <string name="WriteHere">"यहाँ लेख्नुहोस् ... "</string>
+    <string name="SendComplaint">"उजुरी पठाउनुहोस् "</string>
+    <string name="Or">वा</string>
+    <string name="PayByQRCode">QR कोड द्वारा तिर्नुहोस्</string>
+    <string name="PayOthers">" ग्राहक ID द्वारा भुक्तानी गर्नुहोस्"</string>
+    <string name="ScanMsg">"इलेक्ट्रिक बिल र बिलमा QR कोड स्क्यान गर्नुहोस् भुक्तानी पाउनेछ "</string>
+    <string name="PayOthersMsg">"केवल उनीहरूको ग्राहक आइडी प्रयोग गरी कसैको बिजुलीको बिल तिर्नुहोस् "</string>
+    <string name="Title">शीर्षक:</string>
+    <string name="Description">" विवरण:"</string>
+    <string name="TypeTextHere">पाठ टाइप गर्नुहोस् ...</string>
+    <string name="Send">पठाउनुहोस्</string>
+</resources>

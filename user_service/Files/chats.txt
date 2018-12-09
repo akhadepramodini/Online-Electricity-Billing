@@ -1,0 +1,182 @@
+Hi
+"Action":"Default","Msg":"Hello this is ujala how can i help you."
+
+Hello
+"Action":"Default","Msg":"Hii this is ujala how can i help you."
+ 
+Good morning
+"Action":"Default","Msg":"Good Morning.."
+
+Good evening 
+"Action":"Default","Msg":"Good Evening.."
+
+Good night
+"Action":"Default","Msg":"Good night see u tomarrow.."
+whats up ?
+"Action":"Default","Msg":"fine, what about you."
+how are u?
+"Action":"Default","Msg":"fine, what about you."
+how are you
+"Action":"Default","Msg":"fine, what about you."
+I'm also fine.
+"Action":"Default","Msg":"ok cool..."
+I am good
+"Action":"Default","Msg":"ok cool..."
+I am ok
+"Action":"Default","Msg":"ok cool..."
+ok
+"Action":"Default","Msg":"anything else?"
+no
+"Action":"Default","Msg":"ok"
+
+how can i pay the bill?
+"Action":"Screenshot_bill","Msg":"use this" 
+
+show my last month bill?
+"Action":"GENERATE BILL PDF","which":"last month"
+get me the last month bill
+"Action":"GENERATE BILL PDF","which":"last month"
+
+how can i register complaint?
+"Action":"complaint_registration","Msg":"Register your complaint here"
+
+how do i save the electricity?
+"Action":"Default","Msg":"Embrace natural light,change your bulb,unplug any appliances that aren't in use etc."
+
+I am fine thank you
+"Action":"Default","Msg":"Good to know that"
+
+show me the last month electricity bill?
+"Action":"GENERATE BILL PDF","which":"last month"
+
+Is there bill for last month
+"Action":"GENERATE BILL PDF","which":"last month"
+
+show me the bill.
+"Action":"GENERATE BILL PDF","which":"last month"
+
+what is my last electricity bill
+"Action":"GENERATE BILL PDF","which":"last month"
+ 
+current bill
+"Action":"GENERATE BILL PDF","which":"last month"
+
+isn't this easy
+"Action":"Default","Msg":"yes it is"
+
+my bill isn't correct
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+bill is wrong
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+what are my dues
+"Action":"Default","Msg":"Your dues has been added in your next month bill"
+
+bill was wrong
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+amazing
+"Action":"Default","Msg":"yes it is"
+
+older bills
+"Action":"Default","Msg":"you can always see your older bills in bill history"
+
+what is my bill 
+"Action":"GENERATE BILL PDF","which":"last month"
+
+show my billing history
+"Action":"bill_History","which":"All months"
+
+what is last date for bill payment
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+Upto which date i can pay the bill
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+upto when i can pay the bill
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+ 
+last date for bill payment
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+show me the last date
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+what if i pay my bill after last date
+"Action":"Default","Msg":"Fine amount will be added to your next bill"
+
+show my all bills.
+"Action":"bill_History","which":"All months"
+
+show me the billing history
+"Action":"bill_History","which":"All months"
+
+how to apply for new connection
+"Action":"Screenshot_newConnection","Msg":"Go through this"
+
+how to pay others bill ?
+"Action":"Default","Msg":"use the Quick pay mode to pay others bill."
+
+how can i pay my friends bill
+"Action":"Default","Msg":"use the Quick pay mode to pay others bill."
+
+I want to pay bill for others how can i do that ?
+"Action":"Default","Msg":"use the Quick pay mode to pay others bill."
+ 
+can i pay the bill for others
+"Action":"Default","Msg":"Yes, you can use the quick pay mode to pay bill for others"
+
+bye
+"Action":"Default","Msg":"bye."
+
+thank you
+"Action":"Default","Msg":"Welcome.."
+
+you are good
+"Action":"Default","Msg":"Thank you"
+
+who creted u
+"Action":"Default","Msg":"The simbotics."
+who made you
+"Action":"Default","Msg":"The simbotics."
+what is simbotics
+"Action":Default","Msg":"Name of group who created me"
+who is your father
+"Action":"Default","Msg":"The simbotics."
+In which language u r made
+"Action":"Default","Msg":"python"
+
+who are you
+"Action":"Default","Msg":"I am ujala your virtual assistant."
+ 
+what are u doing
+"Action":"Default","Msg":"I'm handling your requests."
+
+ok see u then
+"Action":"Default","Msg":"Nice talking with you"
+ 
+what you can do
+"Action":"Default","Msg":"These are somthing you can ask me Generate your bill ,Guid you how to use the app,Complaint registration,complaint status,show you the billing history,Show you the last date of bill payment"
+
+what can you do
+"Action":"Default","Msg":"These are somthing you can ask me Generate your bill ,Guid you how to use the app,Complaint registration,complaint status,show you the billing history,Show you the last date of bill payment"
+
+what my current billing units
+"Action":"Default","Msg":"You can see on your digital meter"
+ 
+i dont know how to read that
+"Action":"Default","Msg":"Read the dials from left to right and If the pointer is between the two numbers, always take the lower number."
+
+How to read that
+"Action":"Default","Msg":"Read the dials from left to right and If the pointer is between the two numbers, always take the lower number."
+
+how to read the bill units given on my meter?
+"Action":"Default","Msg":"Read the dials from left to right and If the pointer is between the two numbers, always take the lower number."
+
+where can i find my bills
+"Action":"Default","Msg":"You can always see your bills in billing history"
+
+
+
+

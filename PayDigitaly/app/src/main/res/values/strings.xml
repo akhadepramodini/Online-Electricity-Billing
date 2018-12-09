@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PayDigitaly</string>
+    <string name="Registration">Registration</string>
+    <string name="Login">Login</string>
+    <string name="NewConnection">New Connection</string>
+    <string name="QuickPay">Quick Pay</string>
+    <string name="UserName">User Name</string>
+    <string name="CustomerID">Customer ID</string>
+    <string name="Contact">Contact</string>
+    <string name="Register">Register</string>
+    <string name="Password">Password</string>
+    <string name="ViewBill">View My Bill</string>
+    <string name="History">History</string>
+    <string name="RegisterComplaint">Register Complaint</string>
+    <string name="Notifications">Notifications</string>
+    <string name="Welcome">Welcome</string>
+    <string name="SelectCom">Select any one of the following frequently occuring complaints</string>
+    <string name="SelectCom2">Write new complaint</string>
+    <string name="WriteHere">Write here...</string>
+    <string name="SendComplaint">Send Complaint</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="SignIn">Sign In</string>
+    <string name="Viewmybill">View my bill</string>
+    <string name="Or">Or</string>
+    <string name="PayByQRCode">Pay By QR Code</string>
+    <string name="PayOthers">Pay By customer ID</string>
+    <string name="ScanMsg">Scan the QR code on Electricity bill and bill will get paid</string>
+    <string name="PayOthersMsg">Pay electricity bill of anyone by simply using his/her customer ID</string>
+    <string name="Title">Title:</string>
+    <string name="Description">Description:</string>
+    <string name="TypeTextHere">Type text Here...</string>
+    <string name="Send">Send</string>
+</resources>
